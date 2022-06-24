@@ -1,0 +1,12 @@
+{
+  "name": "firebasestorage",
+  "displayName": "firebase-storage",
+  "expo": {
+    "name": "firebase-storage",
+    "slug": "firebase-storage",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
